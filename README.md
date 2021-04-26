@@ -38,7 +38,7 @@ We are using the following tools:
 * [Next.js](https://nextjs.org/) - for both client and server-side rendering of the frontend (NextJS is based on [React](https://reactjs.org))
   * [Apollo Client 3](https://www.apollographql.com/docs/react/)
   * [TypeScript](https://www.typescriptlang.org/index.html#download-links)
-  * [Material UI](https://material-ui.com/) - for components and its built-in `makeStyles` hook and `styled` HOC for custom styling
+  * [Chakra UI](https://chakra-ui.com/) - for components and flexible custom styling
   * Functional Components with [Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [chai](https://www.chaijs.com/) - for writing unit tests.
   * [sinon](https://sinonjs.org/)
